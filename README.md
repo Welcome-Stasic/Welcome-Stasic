@@ -102,11 +102,8 @@
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
     </td>
     <td align="center" width="96">
-      <!-- Можно добавить ещё иконки, если нужно -->
     </td>
     <td align="center" width="96">
     </td>
@@ -152,7 +149,7 @@
 <details>
   <summary>👁️ Просмотры профиля</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Welcome-Stasic&label=👀+ПРОСМОТРЫ&style=for-the-badge&color=brightgreen" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Welcome-Stasic.Welcome-Stasic&left_text=👀%20ПРОСМОТРЫ&right_color=brightgreen" alt="Просмотры профиля" />
 </details>
 
 ---
@@ -160,12 +157,6 @@
 ## Достижения 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Welcome-Stasic&row=1&margin-w=40&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## Недавняя активность ✅
-
-![Metrics](https://metrics.lecoq.io/Welcome-Stasic?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Europe%2FMoscow)
 
 ---
 
