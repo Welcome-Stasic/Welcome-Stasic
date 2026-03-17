@@ -108,14 +108,9 @@
 ## Статистика GitHub 📊
 
 <details>
-  <summary>⭐ Общая статистика и языки</summary>
+  <summary>⭐ Общая статистика</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Статистика Станислава" src="https://github-readme-stats.vercel.app/api/?username=Welcome-Stasic&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Топ языков" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welcome-Stasic&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/>
-  </a>
+    <img src="https://github-widgets.netlify.app/api/v1/user-stats.svg?userName=Welcome-stasic" alt="User Stats" />
   <br/>
 </details>
 
