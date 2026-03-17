@@ -65,7 +65,7 @@
       <br>jQuery
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mobx" width="48" height="48" alt="MobX" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP4OTKpbTsTQqB18t5kBsJbLnD-f2buEgZdg&s" width="48" height="48" alt="MobX" />
       <br>MobX
     </td>
     <td align="center" width="96">
@@ -91,27 +91,19 @@
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <a href="#teacher-cheater-stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
+        <img src="https://img.icons8.com/color/1200/npm.jpg" width="36" height="36" alt="npm" />
       <br>npm
     </td>
     <td align="center" width="96">
-       <a href="#teacher-cheater-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
-      </a>
       <br>MUI
     </td>
     <td align="center" width="96">
-       <a href="#teacher-cheater-stack" >
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
       <br>Vite
     </td>
     <td align="center" width="96">
-      <a href="#teacher-cheater-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
-      </a>
       <br>Webpack
     </td>
     <td align="center" width="96">
