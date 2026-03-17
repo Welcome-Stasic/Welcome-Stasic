@@ -138,7 +138,7 @@
 <details>
   <summary>👁️ Просмотры профиля</summary>
   <br/>
- <img src="https://komarev.com/ghpvc/?username=Welcome-Stasic&label=👀%20ПРОСМОТРЫ&color=brightgreen&style=for-the-badge" alt="Просмотры профиля" />
+ <img src="https://komarev.com/ghpvc/?username=Welcome-Stasic&label=ПРОСМОТРЫ&color=brightgreen&style=for-the-badge" alt="Просмотры профиля" />
 </details>
 
 ---
