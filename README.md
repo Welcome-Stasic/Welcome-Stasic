@@ -91,14 +91,34 @@
       <br>VS Code
     </td>
     <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>npm
     </td>
     <td align="center" width="96">
+       <a href="#teacher-cheater-stack">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
+      </a>
+      <br>MUI
     </td>
     <td align="center" width="96">
+       <a href="#teacher-cheater-stack" >
+        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+      </a>
+      <br>Vite
     </td>
     <td align="center" width="96">
+      <a href="#teacher-cheater-stack" >
+        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
+      </a>
+      <br>Webpack
     </td>
     <td align="center" width="96">
+        <a href="#teacher-cheater-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
+      </a>
+      <br>git
     </td>
   </tr>
 </table>
